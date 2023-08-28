@@ -1,4 +1,4 @@
-# hello-world1
+# hello-world
 Exercise to get started with GitHub.
 Just a littel demo test to see how it works....
 One 
